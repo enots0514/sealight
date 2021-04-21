@@ -1,0 +1,22 @@
+구글
+Nanum Pen Script
+
+<link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&family=Nanum+Myeongjo:wght@400;700;800&family=Nanum+Pen+Script&display=swap" rel="stylesheet">
+
+font-family: 'Nanum Pen Script', cursive;
+font-family: 'Nanum Myeongjo', serif;
+font-family: 'Nanum Gothic', sans-serif;
+
+& 구글 통계(GA 코드)
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXT82HGRP5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXT82HGRP5');
+</script>
+
+
